@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "arrowPad-rescue")(type "Legacy")(uri "${KIPRJMOD}/arrowPad-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "arrowPadSymb")(type "Legacy")(uri "/Users/Jonathan/Downloads/arrowPad-master/arrowPadSymb.lib")(options "")(descr "")(disabled))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/resources/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+)
